@@ -3,5 +3,4 @@
 # commit
 # Done
 # Webhook configured
-# Trying webhook for my pipeline practical for the second time.
-# Seeing something
+# Now Henry is trying webhook for Jenkins
